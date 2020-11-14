@@ -1,0 +1,332 @@
+* {
+    margin: 0 0;
+    padding: 0 0;
+}
+
+#header{
+    width: 1100px;
+    height: 65px;
+    background-color:#f2f2f2;
+    margin:0 auto;
+   
+}
+
+#header .logo{
+    width: 127px;
+    height: 41px;
+    background-color: springgreen;
+    float:left;
+    margin: 14px 0px 10px 43px;
+}
+
+#header .search{
+    width:464px;
+    height: 15px;
+    background-color:#f2f2f2;
+    float:right;
+    margin: 30px 33px 15px 0;
+}
+
+#header .search ul li{
+    font-size: 16px;
+    float:left;
+    list-style: none;
+    width:90px;
+
+    color:#808080;
+}
+#header .search ul a{
+    text-decoration: none;
+}
+#banner{
+    width: 1100px;
+    height: 423px;
+    background-color:red;
+    margin: 0 auto;
+
+
+}
+
+#set{
+    width: 1100px;
+    height: 290px;
+    background-color:sandybrown;
+    margin:0 auto;
+}
+
+#set .services{
+    width: 560px;
+    height: 290px;
+    background-color:white;
+    float: left;
+}
+
+#set .services .logo2{
+    margin-left: 50px;
+}
+
+#set .services .easyset .easy1 p{
+    width:70px;
+    height: 40px;
+    background-color:white;
+    margin-left: 50px;
+    font-size: 14px;
+    color:#00b4ef;
+    float: left;
+}
+#set .services .easyset .easy2 p{
+    width:340px;
+    height: 40px;
+    background-color:white;
+    margin-right: 50px;
+    font-size: 12px;
+    line-height: 23px;
+    color:#666666;
+    float: right;
+}
+
+
+#set .services .basicset .basicset1 p{
+    width:70px;
+    height:120px;
+    background-color:white;
+    margin:60px 0px 0px 50px;
+    font-size: 14px;
+    color:#00b4ef;
+    float: left;
+}
+#set .services .basicset .basicset2 p{
+    width:340px;
+    height:100px;
+    background-color:white;
+    margin:60px 50px 0px 0px;
+    font-size: 12px;
+    line-height: 23px;
+    color:#666666;
+    float: right;
+}
+#set .cases{
+    width: 540px;
+    height: 290px;
+    background-color: white;
+    float: left;
+
+    
+}
+#set .cases .logo3{
+    width: 91px;
+    height: 50px;
+
+} 
+#set .cases .logo4{
+    width: 488px;
+    height: 194px;
+    margin-top: 25px;
+}
+#news{
+    width: 1100px;
+    height: 433px;
+    background-color: white;
+    margin:0 auto;
+}
+
+#news .aboutus{
+    width: 292px;
+    height: 230px;
+    background-color: white;
+    float: left;
+    margin: 65px 35px 135px 50px;
+
+}
+
+#news .aboutus h3{
+    font-size: 19px;
+}
+
+#news .aboutus .more a{
+    float: right;
+    margin-top: 8px;
+    font-size: 10px;
+    text-decoration:none;
+    
+    
+}
+
+#news .aboutus .aboutus1{
+    width: 292px;
+    height: 65px;
+    font-size: 12px;
+    background-color: white;
+    margin-top: 42px;
+    line-height: 25px;
+    color: #7e7e7e;
+
+    
+
+}
+#news .aboutus .aboutus2{
+    width: 292px;
+    height: 85px;
+    font-size: 12px;
+    background-color: white;
+    margin-top: 28px;
+    line-height: 25px;
+    color: #7e7e7e;
+
+}
+
+#news .newscenter{
+    width: 267px;
+    height: 230px;
+    background-color: white;
+    float: left;
+    margin: 65px 30px 135px 0px;
+    
+}
+
+#news .newscenter h3{
+    font-size: 19px;
+}
+
+#news .newscenter  .more a{
+    float: right;
+    margin-top: 8px;
+    font-size: 10px;
+    text-decoration:none;
+    margin-bottom: 20px;
+    
+}
+
+#news .newscenter  .more img{
+    margin:px 0px 25px 0px;
+}
+#news .newscenter p{
+    width: 292px;
+    height: 85px;
+    font-size: 12px;
+    background-color: white;
+    margin-top: 22px;
+    line-height: 25px;
+    color: #7e7e7e;
+}
+
+#news .discount{
+    width: 378px;
+    height: 230px;
+    background-color: white;
+    float: left;
+    margin: 65px 0px 135px 0px;
+}
+
+#news .discount .discountnews{
+    width: 370px;
+    height: 162px;
+    margin: 42px 0px 200px 0px;
+}
+
+
+#news .discount h3{
+    font-size: 19px;
+}
+#news .discount .more a{
+    float:right;
+    margin-top: 8px;
+    font-size: 10px;
+    text-decoration:none;
+    margin-bottom: 20px;
+}
+#news .discount .discountnews ul li{
+    list-style: none;
+    font-size: 12px;
+    float: left;
+    line-height: 30px;
+    width: 370px;
+    color: #7e7e7e;
+
+}
+
+#news .discount .discountnews ul li a{
+    text-decoration: none;
+}
+
+#news .discount .discountnews ul li span{
+    float: right;
+
+}
+
+#footer{
+    width: 1100px;
+    height: 230px;
+    background-color:#383838;
+    margin:0 auto;
+
+    
+}
+
+#footer .footertop{
+    width: 1100px;
+    height: 166px;
+    background-color:#383838;
+    float: left;
+}
+
+#footer .footertop .phone{
+    width: 460px;
+    height: 121px;
+    background-color: #383838;
+    margin: 45px 0px 0px 45px;
+    float: left;
+}
+
+#footer .footertop .phone .phone1{
+    width:460px;
+    height: 26px;
+    float: left;
+    font-size: 13px;
+    color: #7e7e7e;
+  
+
+}
+#footer .footertop .phone .phone1 a{
+    text-decoration: none;
+}
+#footer .footertop .phone .phone2{
+    font-size: 12px;
+    color: #7e7e7e;
+    line-height: 20px;
+}
+ 
+#footer .footertop .phone3{
+    width: 183px;
+    height: 41px;
+    background-color: #383838;
+    margin: 50px 65px 75px 0px;
+    float: right;
+}
+
+#footer .footertop .phone3 .free{
+font-size: 10px;
+color: #ababab;
+
+
+}
+#footer .footertop .phone3 .num{
+    font-size: 23px;
+    color: #ababab;
+
+
+}
+#footer .footerdown{
+    width: 1100px;
+    height: 60px;
+    float: left;
+}
+
+#footer .footerdown .final{
+
+    color:#7e7e7e;
+    background-color: #383838;
+    font-size: 13px;
+    margin: 20px 450px 30px 453px;
+    float: left;
+}
